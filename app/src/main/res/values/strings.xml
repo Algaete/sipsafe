@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SipSafe</string>
+    <string name="language_title">Languages</string>
+    <string name="default_web_client_id" translatable="false">214073366615-8q7498iukhhb9c93vv9k2log4to9jeln.apps.googleusercontent.com</string>
+</resources>

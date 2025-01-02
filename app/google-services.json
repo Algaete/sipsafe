@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "214073366615",
+    "project_id": "sipsafe-c2a25",
+    "storage_bucket": "sipsafe-c2a25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214073366615:android:14f91bad2ab99ad3bd6b12",
+        "android_client_info": {
+          "package_name": "com.algaete.sipsafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214073366615-e9rukcjnbenf0l9skeeq6cubnn2pmfie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.algaete.sipsafe",
+            "certificate_hash": "86fcc78172692aa3cfb2effaa08c9249858b39d0"
+          }
+        },
+        {
+          "client_id": "214073366615-8q7498iukhhb9c93vv9k2log4to9jeln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1qBbssdgKQpvP0FeFllhHX_Wy2bh5RHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214073366615-8q7498iukhhb9c93vv9k2log4to9jeln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

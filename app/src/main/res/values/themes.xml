@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.SipSafe" parent="Theme.SplashScreen">
+        <!--  android:Theme.Material.Light.NoActionBar-->
+        <item name="android:windowAnimationStyle">@style/Theme.SipSafe.WindowAnimation</item>
+        <!-- Disable Action Bar -->
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <!-- Splash Screen Attributes -->
+        <item name="windowSplashScreenBackground">@color/backgroundColor</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/pills</item>
+        <item name="postSplashScreenTheme">@style/Theme.SipSafe</item>
+
+    </style>
+
+
+    <!-- Main App Theme without Action Bar -->
+    <style name="Theme.MyApp.NoActionBar" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Customize your main app theme here -->
+    </style>
+</resources>
